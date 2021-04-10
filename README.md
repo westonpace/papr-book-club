@@ -2,6 +2,8 @@
 
 This is a book club to read through and study the book "Is Parallel Programming Hard, And, If So,What Can You Do About It? (2nd Edition)" by Paul E. McKenney.  A book that may also be known by its alternative titles, "Commas, so many, and, all in one, peculiar, title" and "Let's make a lengthy title so it can't fit as a subsection in a markdown document".
 
+[PDF COPY](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook-e2.pdf)
+
 Anyone is welcome to join.  The book will be read at hopefully a reasonable schedule.  We may need to adjust as things progress.  No one is being graded.  You will get out of it what you put into it.
 
 The book itself is primarily in C and rather low level although the concepts should apply to a variety of languages.  I'm pretty sure it is focused on the Linux kernel.  You know what, read chapter 1 of the book if you aren't sure if you are interested.  That's quicker than me typing out all the info.
