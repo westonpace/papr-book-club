@@ -12,7 +12,8 @@ Goal is to read 20-40 pages every week and meet (virtually of course) to discuss
 
 * 4/26/2021 - Review chapters 2 & 3 (they are short chapters) [Meeting link TBD based on avail. times]
   - Get the book and read (obviously)
-  - Fork this repo and submit a PR to this file with your available times. (yes, I know a Wiki is probably easier, let's start this way for now)
+  - Clone this repo
+  - Go to the wiki and submit what times you are available (do this sooner rather than later)
   - Make sure you can compile and run at least some of the sample code (the repo is included with this repo as a git submodule)
 * 5/03/2021 - Review chapter 4
 * 5/10/2021 - Review chapter 5
@@ -24,6 +25,4 @@ Goal is to read 20-40 pages every week and meet (virtually of course) to discuss
 
 Meetings will be over Google Meet.  They will be one hour long.  Finding a compatible time zone will probably be impossible but we can try.  One person will be responsible for leading the discussion.  That person will need to prepare study questions, examples, etc. and be prepared.  This unlucky person may always be me or maybe some others will volunteer.  I will lead the first meeting.
 
-Currently, we need to find a compatible time zone.  Please post your availability below, in UTC.
-
-* Weston - 24 hours (I'll make it work, although I'd rather avoid 11:00 - 15:00 UTC if possible)
+Currently, we need to find a compatible time zone.  Please post your availability on the Wiki.
