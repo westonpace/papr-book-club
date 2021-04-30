@@ -12,19 +12,23 @@ The book itself is primarily in C and rather low level although the concepts sho
 
 Goal is to read 20-40 pages every week and meet (virtually of course) to discuss.  We are skipping chapter 1 since it is just intro.  At the moment I assume we will progress linearly but we may skip around based on discussion and interest.  Homework is to be done before the meeting.
 
-* 4/26/2021 - Review chapters 2 & 3 (they are short chapters) [Meeting link TBD based on avail. times]
+* 5/03/2021 - Review chapters 2 & 3 (they are short chapters) [Meeting link TBD based on avail. times]
   - Get the book and read (obviously)
   - Clone this repo
   - Go to the wiki and submit what times you are available (do this sooner rather than later)
   - Make sure you can compile and run at least some of the sample code (the repo is included with this repo as a git submodule)
-* 5/03/2021 - Review chapter 4
-* 5/10/2021 - Review chapter 5
-* 5/17/2021 - Review chapter 6
-* 5/24/2021 - Review chapter 7
+* 5/10/2021 - Review chapter 4
+* 5/17/2021 - Review chapter 5
+* 5/24/2021 - Review chapter 6
+* 5/31/2021 - Review chapter 7
 * TBD
 
 ## Meetings
 
-Meetings will be over Google Meet.  They will be one hour long.  Finding a compatible time zone will probably be impossible but we can try.  One person will be responsible for leading the discussion.  That person will need to prepare study questions, examples, etc. and be prepared.  This unlucky person may always be me or maybe some others will volunteer.  I will lead the first meeting.
+Meetings will be over Google Meet.  They will be one hour long.  One person will be responsible for leading the discussion.  That person will need to prepare study questions, examples, etc. and be prepared.  This unlucky person may always be me or maybe some others will volunteer.  I will lead the first meeting.
 
-Currently, we need to find a compatible time zone.  Please post your availability on the Wiki.
+Meetings will be on Mondays starting at 1500 UTC
+
+Google Calendar Invite: https://calendar.google.com/event?action=TEMPLATE&tmeid=MGNibmticWgydTYzZ24wdGE2aGE1MzFidjlfMjAyMTA1MDNUMTUwMDAwWiB3ZXN0b24ucGFjZUBt&tmsrc=weston.pace%40gmail.com&scp=ALL
+
+Google Meet link: https://meet.google.com/cpf-iihu-fwj
