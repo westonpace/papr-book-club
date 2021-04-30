@@ -29,6 +29,5 @@ Meetings will be over Google Meet.  They will be one hour long.  One person will
 
 Meetings will be on Mondays starting at 1500 UTC
 
-Google Calendar Invite: https://calendar.google.com/event?action=TEMPLATE&tmeid=MGNibmticWgydTYzZ24wdGE2aGE1MzFidjlfMjAyMTA1MDNUMTUwMDAwWiB3ZXN0b24ucGFjZUBt&tmsrc=weston.pace%40gmail.com&scp=ALL
-
+Google Calendar: https://calendar.google.com/calendar/u/1?cid=YWNkcnYwZnVoY2w0dW5scDc3bzJqZTg3dGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
 Google Meet link: https://meet.google.com/cpf-iihu-fwj
