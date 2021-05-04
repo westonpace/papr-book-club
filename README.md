@@ -30,4 +30,5 @@ Meetings will be over Google Meet.  They will be one hour long.  One person will
 Meetings will be on Thursdays starting at midnight UTC
 
 Google Calendar: https://calendar.google.com/event?action=TEMPLATE&tmeid=NTM3bGl1MThwbWg2OTMxMTI3ZXBhNG4wNGVfMjAyMTA1MDZUMjAwMDAwWiBhY2RydjBmdWhjbDR1bmxwNzdvMmplODd0Y0Bn&tmsrc=acdrv0fuhcl4unlp77o2je87tc%40group.calendar.google.com&scp=ALL
+
 Google Meet link: https://meet.google.com/xfq-xfve-swu
