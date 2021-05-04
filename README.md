@@ -27,7 +27,7 @@ Goal is to read 20-40 pages every week and meet (virtually of course) to discuss
 
 Meetings will be over Google Meet.  They will be one hour long.  One person will be responsible for leading the discussion.  That person will need to prepare study questions, examples, etc. and be prepared.  This unlucky person may always be me or maybe some others will volunteer.  I will lead the first meeting.
 
-Meetings will be on Mondays starting at 1500 UTC
+Meetings will be on Thursdays starting at midnight UTC
 
-Google Calendar: https://calendar.google.com/calendar/u/1?cid=YWNkcnYwZnVoY2w0dW5scDc3bzJqZTg3dGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
-Google Meet link: https://meet.google.com/cpf-iihu-fwj
+Google Calendar: https://calendar.google.com/event?action=TEMPLATE&tmeid=NTM3bGl1MThwbWg2OTMxMTI3ZXBhNG4wNGVfMjAyMTA1MDZUMjAwMDAwWiBhY2RydjBmdWhjbDR1bmxwNzdvMmplODd0Y0Bn&tmsrc=acdrv0fuhcl4unlp77o2je87tc%40group.calendar.google.com&scp=ALL
+Google Meet link: https://meet.google.com/xfq-xfve-swu
