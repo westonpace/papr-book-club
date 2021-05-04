@@ -12,15 +12,15 @@ The book itself is primarily in C and rather low level although the concepts sho
 
 Goal is to read 20-40 pages every week and meet (virtually of course) to discuss.  We are skipping chapter 1 since it is just intro.  At the moment I assume we will progress linearly but we may skip around based on discussion and interest.  Homework is to be done before the meeting.
 
-* 5/03/2021 - Review chapters 2 & 3 (they are short chapters) [Meeting link TBD based on avail. times]
+* 5/06/2021 - Review chapters 2 & 3 (they are short chapters) [Meeting link TBD based on avail. times]
   - Get the book and read (obviously)
   - Clone this repo
   - Go to the wiki and submit what times you are available (do this sooner rather than later)
   - Make sure you can compile and run at least some of the sample code (the repo is included with this repo as a git submodule)
-* 5/10/2021 - Review chapter 4
-* 5/17/2021 - Review chapter 5
-* 5/24/2021 - Review chapter 6
-* 5/31/2021 - Review chapter 7
+* 5/13/2021 - Review chapter 4
+* 5/20/2021 - Review chapter 5
+* 5/27/2021 - Review chapter 6
+* 6/03/2021 - Review chapter 7
 * TBD
 
 ## Meetings
